@@ -1,0 +1,39 @@
+body {
+    background-image: url("/images/invader.jpg");
+    background-repeat: repeat;
+  }
+.navbar{
+    width: 200px;
+    height: 200px;
+    background-color:#030303;
+    padding: 16px;
+    margin: 20px;
+    position: center;
+}
+a{
+    color: #01cd74;
+    font-family: 'Press Start 2P', cursive;
+    font-size: 22px;
+    text-decoration: none;
+}
+a:hover{
+    color: #ff4e00;
+}
+.text{
+    font-family: 'Lobster', cursive;
+    color: #ff4e00;
+    background-color:#030303;
+    border: 5px solid #ff4e00;
+    padding:50px;
+}
+.text:hover{
+    color: #01cd74;
+    border: 5px solid #01cd74;
+}
+.outside{
+    margin: 20%;
+    background-color: #3624db;
+    border: 9px solid #5f6265;
+    max-width: 300px;
+    position: center;
+}
